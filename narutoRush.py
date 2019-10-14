@@ -50,11 +50,11 @@ def message_display(text):
     gameLoop()
 
 def crash():
-    message_display("Nemade chya aaichi gand") 
+    message_display("Out of Display") 
 
 
 def colision():
-       message_display("Nikel Lawde")
+       message_display("Crashed")
 
 
 
