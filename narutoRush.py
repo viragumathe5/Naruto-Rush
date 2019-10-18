@@ -50,11 +50,11 @@ def message_display(text):
     gameLoop()
 
 def crash():
-    message_display("Out of Display") 
+    message_display("Out of Bounds") 
 
 
 def colision():
-       message_display("Crashed")
+       message_display("Collided")
 
 
 
